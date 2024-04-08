@@ -1,5 +1,5 @@
 # JumpsOn
 
 ```bash
-A little Unity Game about a cube jumping on platforms and this is the second project that I got this far 
+Build on 2021.3.27f1
 ```
